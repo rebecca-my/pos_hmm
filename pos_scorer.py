@@ -1,12 +1,3 @@
-###################################
-# CS B551 Fall 2020, Assignment #3
-# 
-# Scoring code by D. Crandall
-#
-# PLEASE DON'T MODIFY THIS FILE.
-# Edit pos_solver.py instead!
-#
-
 class Score:
     def __init__(self):
         self.word_scorecard = {}
