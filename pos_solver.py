@@ -1,7 +1,6 @@
 ###################################
-# CS B551 Fall 2020, Assignment #3
 #
-# Your names and user ids: Rebecca Myers rsciagli
+# code by Rebecca Myers rsciagli
 #
 # (Based on skeleton code by D. Crandall)
 #
